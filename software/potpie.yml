@@ -1,0 +1,14 @@
+name: Potpie
+website_url: https://potpie.ai
+description: Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built code aware agents.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Software Development - IDE and Tools
+source_code_url: https://github.com/potpie-ai/potpie
+stargazers_count: 154
+updated_at: '2024-10-27'
+archived: false
